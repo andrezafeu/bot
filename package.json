@@ -1,0 +1,26 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Simple bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrezafeu/bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/andrezafeu/bot/issues"
+  },
+  "homepage": "https://github.com/andrezafeu/bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.1",
+    "restify": "^4.3.0"
+  }
+}
